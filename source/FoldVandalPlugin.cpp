@@ -237,7 +237,7 @@ yup::AudioProcessorEditor* FoldVandalPlugin::createEditor()
     return new ParameterGridEditor (*this,
                                     "FoldVandal",
                                     "Asymmetric multi-fold wavefolder with standalone-only audition.",
-                                    0xffd9ff42u);
+                                    0xfff2f2f0u);
 #endif
 }
 
